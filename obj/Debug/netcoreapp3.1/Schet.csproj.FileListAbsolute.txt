@@ -1,0 +1,13 @@
+C:\Users\admin\source\repos\Schet\Schet\bin\Debug\netcoreapp3.1\Schet.exe
+C:\Users\admin\source\repos\Schet\Schet\bin\Debug\netcoreapp3.1\Schet.deps.json
+C:\Users\admin\source\repos\Schet\Schet\bin\Debug\netcoreapp3.1\Schet.runtimeconfig.json
+C:\Users\admin\source\repos\Schet\Schet\bin\Debug\netcoreapp3.1\Schet.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Schet\Schet\bin\Debug\netcoreapp3.1\Schet.dll
+C:\Users\admin\source\repos\Schet\Schet\bin\Debug\netcoreapp3.1\Schet.pdb
+C:\Users\admin\source\repos\Schet\Schet\obj\Debug\netcoreapp3.1\Schet.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\Schet\Schet\obj\Debug\netcoreapp3.1\Schet.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Schet\Schet\obj\Debug\netcoreapp3.1\Schet.AssemblyInfo.cs
+C:\Users\admin\source\repos\Schet\Schet\obj\Debug\netcoreapp3.1\Schet.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Schet\Schet\obj\Debug\netcoreapp3.1\Schet.dll
+C:\Users\admin\source\repos\Schet\Schet\obj\Debug\netcoreapp3.1\Schet.pdb
+C:\Users\admin\source\repos\Schet\Schet\obj\Debug\netcoreapp3.1\Schet.genruntimeconfig.cache
